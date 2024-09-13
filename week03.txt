@@ -1,3 +1,9 @@
 3주차 내용
-- linux 명령어 기초복습
-- git 명령어 기초 복습
+- linux 명령어 기초복습(ls touch cat)
+- git 명령어 기초 복습 (init add commit log status push)
+- cd .. (현재 폴더에서 상위 폴더로 이동)
+- git clone "원격리포지토리 주소"
+- git config --list
+- git remote remove origin (삭제코드)- 기존의 원격리포지토리 주소를 변경하려면 삭제를 해야 한다.
+- git remote add origin "연결할 원격리포지토리 주소(girhub주소)"
+- 
